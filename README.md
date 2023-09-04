@@ -1,4 +1,4 @@
 # yash-test
 This is my first Git Repo.
 <br>
-Author - Yash Karmakar
+Author - Yash (Karmakar)
