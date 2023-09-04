@@ -1,2 +1,3 @@
 # yash-test
-this is my first Git Repo.
+This is my first Git Repo.
+Author - Yash Karmakar
